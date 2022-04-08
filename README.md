@@ -1,4 +1,4 @@
-# Academic-SurvivalistWebsite
+# Academic-SurvivalistWebsite (Portuguese)
 https://PortalDoSobrevivencialista.rafaelbrandaobr.repl.co
 
 Experimental website created for academic activity without any commercial purpose
